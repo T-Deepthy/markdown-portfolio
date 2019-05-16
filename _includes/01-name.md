@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Welcome to my portfolio
+## Ruby on rails
+### Rails server side web application framework.
